@@ -60,4 +60,4 @@ These projects were created to strengthen Python fundamentals, logic building, a
 ---
 
 ## 👨‍💻 Author
-EraiYanbu-G
+Eraiyanbu-G
